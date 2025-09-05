@@ -18,11 +18,11 @@ Login:admin PW:8nJAW>NQsf@V3CiUiC_!
 
 # Allgemeine Infos
 
-layout.css: packages/bonjov_site/Resources/Public/Css/layout.css
-style.css: packages/bonjov_site/Resources/Public/Css/style.css
+layout.css: packages/bonjov_site/Resources/Public/Css/layout.css  
+style.css: packages/bonjov_site/Resources/Public/Css/style.css  
 main.js: packages/bonjov_site/Resources/Public/JavaScript/main.js
 
-Content Blocks
+Content Blocks  
 https://docs.typo3.org/p/friendsoftypo3/content-blocks/main/en-us/Index.html
 
 => Make-Commands zur Erstellung neuer Elemente:  
