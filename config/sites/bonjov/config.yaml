@@ -1,0 +1,18 @@
+base: 'https://bonjov.ddev.site/'
+dependencies:
+  - typo3/fluid-styled-content
+  - typo3/fluid-styled-content-css
+  - mbx/bonjov-site
+languages:
+  -
+    title: Deutsch
+    enabled: true
+    languageId: 0
+    base: /
+    locale: de_DE
+    navigationTitle: Deutsch
+    flag: de
+    hreflang: ''
+    websiteTitle: ''
+rootPageId: 1
+websiteTitle: ''
