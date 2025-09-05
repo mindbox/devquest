@@ -13,7 +13,8 @@ Verzeichnis wählen
 - ddev import-db --src=.ddev/db_dumps/bonjov_db_start.sql.gz
 
 => Frontend: https://bonjov.ddev.site/
-=> Backend: https://bonjov.ddev.site/typo3 || Login:admin PW:8nJAW>NQsf@V3CiUiC_!
+=> Backend: https://bonjov.ddev.site/typo3  
+Login:admin PW:8nJAW>NQsf@V3CiUiC_!
 
 # Allgemeine Infos
 
@@ -24,6 +25,8 @@ main.js: packages/bonjov_site/Resources/Public/JavaScript/main.js
 Content Blocks
 https://docs.typo3.org/p/friendsoftypo3/content-blocks/main/en-us/Index.html
 
-=> Make-Commands zur Erstellung neuer Elemente: https://docs.typo3.org/p/friendsoftypo3/content-blocks/main/en-us/Commands/Make/Index.html#cb_skeleton
+=> Make-Commands zur Erstellung neuer Elemente:  
+https://docs.typo3.org/p/friendsoftypo3/content-blocks/main/en-us/Commands/Make/Index.html#cb_skeleton
 
-Content Blocks YT Tutorial: https://www.youtube.com/watch?v=PAOiwN-Q0p4
+Content Blocks YT Tutorial: 
+https://www.youtube.com/watch?v=PAOiwN-Q0p4
