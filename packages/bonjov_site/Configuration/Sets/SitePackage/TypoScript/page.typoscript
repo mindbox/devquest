@@ -43,7 +43,6 @@ page {
     }
 
     includeCSS {
-        bonjov_site_layout = EXT:bonjov_site/Resources/Public/Css/layout.css
         bonjov_site_style = EXT:bonjov_site/Resources/Public/Css/style.css
     }
 

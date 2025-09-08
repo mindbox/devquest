@@ -14,11 +14,11 @@ Verzeichnis wählen
 
 => Frontend: https://bonjov.ddev.site/  
 => Backend: https://bonjov.ddev.site/typo3  
-Login:admin PW:8nJAW>NQsf@V3CiUiC_!
+Login: admin  
+Passwort: 8nJAW>NQsf@V3CiUiC_!  
 
 # Allgemeine Infos
 
-layout.css: packages/bonjov_site/Resources/Public/Css/layout.css  
 style.css: packages/bonjov_site/Resources/Public/Css/style.css  
 main.js: packages/bonjov_site/Resources/Public/JavaScript/main.js
 
