@@ -5,7 +5,7 @@ Dieses Projekt ist ein TYPO3 Minimalconfig mit content_blocks vorinstalliert.
 # Schnellstart
 
 Verzeichnis wählen
-- git clone git@github.com:mindbox/test-cbstarter.git cbstarter
+- git clone git@github.com:mindbox/cbstarter.git cbstarter
 - cd cbstarter
 - ddev start
 - ddev composer install
