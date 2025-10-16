@@ -1,7 +1,7 @@
 <?php
 
 $EM_CONF[$_EXTKEY] = [
-    'title' => 'Bonjov Site',
+    'title' => 'Cbstarter Site',
     'description' => '',
     'category' => 'templates',
     'constraints' => [
@@ -15,7 +15,7 @@ $EM_CONF[$_EXTKEY] = [
     ],
     'autoload' => [
         'psr-4' => [
-            'Mbx\\BonjovSite\\' => 'Classes',
+            'Mbx\\CbstarterSite\\' => 'Classes',
         ],
     ],
     'state' => 'stable',

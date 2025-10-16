@@ -2,7 +2,7 @@
 
 RTE {
     default {
-        preset = bonjov_site
+        preset = cbstarter_site
     }
 }
 

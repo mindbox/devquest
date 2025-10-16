@@ -1,5 +1,5 @@
-name: mbx/bonjov-site
-label: 'Bonjov Site'
+name: mbx/cbstarter-site
+label: 'Cbstarter Site'
 dependencies:
   - typo3/fluid-styled-content
   - typo3/fluid-styled-content-css

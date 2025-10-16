@@ -1,8 +1,8 @@
-base: 'https://bonjov.ddev.site/'
+base: 'https://cbstarter.ddev.site/'
 dependencies:
   - typo3/fluid-styled-content
   - typo3/fluid-styled-content-css
-  - mbx/bonjov-site
+  - mbx/cbstarter-site
 languages:
   -
     title: Deutsch

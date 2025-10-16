@@ -110,7 +110,7 @@ return [
             'frontend.cache.autoTagging' => true,
             'security.system.enforceAllowedFileExtensions' => true,
         ],
-        'sitename' => 'Bonjov',
+        'sitename' => 'Cbstarter',
         'systemMaintainers' => [
             1,
         ],

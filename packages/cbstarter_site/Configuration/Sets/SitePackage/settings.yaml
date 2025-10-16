@@ -1,12 +1,12 @@
 styles:
   templates:
-    layoutRootPath: 'EXT:bonjov_site/Resources/Private/ContentElements/Layouts/'
-    partialRootPath: 'EXT:bonjov_site/Resources/Private/ContentElements/Partials/'
-    templateRootPath: 'EXT:bonjov_site/Resources/Private/ContentElements/Templates/'
+    layoutRootPath: 'EXT:cbstarter_site/Resources/Private/ContentElements/Layouts/'
+    partialRootPath: 'EXT:cbstarter_site/Resources/Private/ContentElements/Partials/'
+    templateRootPath: 'EXT:cbstarter_site/Resources/Private/ContentElements/Templates/'
 
 page:
   pageview:
-    paths: 'EXT:bonjov_site/Resources/Private/PageView/'
+    paths: 'EXT:cbstarter_site/Resources/Private/PageView/'
 
   meta:
     viewport: 'width=device-width, initial-scale=1'
