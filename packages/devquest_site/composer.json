@@ -1,8 +1,8 @@
 {
-    "name": "mbx/cbstarter-site",
+    "name": "mbx/devquest-site",
     "type": "typo3-cms-extension",
     "description": "",
-    "homepage": "https://cbstarter.ddev.site",
+    "homepage": "https://devquest.ddev.site",
     "license": ["GPL-2.0-or-later"],
     "keywords": ["TYPO3 CMS"],
     "require": {
@@ -12,12 +12,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Mbx\\CbstarterSite\\": "Classes/"
+            "Mbx\\DevquestSite\\": "Classes/"
         }
     },
     "extra": {
         "typo3/cms": {
-            "extension-key": "cbstarter_site"
+            "extension-key": "devquest_site"
         }
     }
 }

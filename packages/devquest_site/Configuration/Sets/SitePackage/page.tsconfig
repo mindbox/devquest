@@ -2,7 +2,7 @@
 
 RTE {
     default {
-        preset = cbstarter_site
+        preset = devquest_site
     }
 }
 

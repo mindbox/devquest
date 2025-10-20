@@ -1,7 +1,7 @@
 <?php
 
 $EM_CONF[$_EXTKEY] = [
-    'title' => 'Cbstarter Site',
+    'title' => 'Devquest Site',
     'description' => '',
     'category' => 'templates',
     'constraints' => [
@@ -15,7 +15,7 @@ $EM_CONF[$_EXTKEY] = [
     ],
     'autoload' => [
         'psr-4' => [
-            'Mbx\\CbstarterSite\\' => 'Classes',
+            'Mbx\\DevquestSite\\' => 'Classes',
         ],
     ],
     'state' => 'stable',

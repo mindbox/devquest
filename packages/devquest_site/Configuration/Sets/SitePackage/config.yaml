@@ -1,5 +1,5 @@
-name: mbx/cbstarter-site
-label: 'Cbstarter Site'
+name: mbx/devquest-site
+label: 'Devquest Site'
 dependencies:
   - typo3/fluid-styled-content
   - typo3/fluid-styled-content-css

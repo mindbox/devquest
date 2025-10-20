@@ -4,12 +4,12 @@
 page = PAGE
 page {
     typeNum = 0
-    shortcutIcon = EXT:cbstarter_site/Resources/Public/Icons/favicon.ico
+    shortcutIcon = EXT:devquest_site/Resources/Public/Icons/favicon.ico
 
     10 = PAGEVIEW
     10 {
         paths {
-            0 = EXT:cbstarter_site/Resources/Private/PageView/
+            0 = EXT:devquest_site/Resources/Private/PageView/
             1 = {$page.pageview.paths}
         }
         dataProcessing {
@@ -43,7 +43,7 @@ page {
     }
 
     includeCSS {
-        cbstarter_site_style = EXT:cbstarter_site/Resources/Public/Css/style.css
+        devquest_site_style = EXT:devquest_site/Resources/Public/Css/style.css
     }
 
     includeJSLibs {
@@ -59,6 +59,6 @@ page {
     }
 
     includeJSFooter {
-        cbstarter_site_scripts = EXT:cbstarter_site/Resources/Public/JavaScript/main.js
+        devquest_site_scripts = EXT:devquest_site/Resources/Public/JavaScript/main.js
     }
 }

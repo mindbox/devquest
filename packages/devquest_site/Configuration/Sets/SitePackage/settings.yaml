@@ -1,12 +1,12 @@
 styles:
   templates:
-    layoutRootPath: 'EXT:cbstarter_site/Resources/Private/ContentElements/Layouts/'
-    partialRootPath: 'EXT:cbstarter_site/Resources/Private/ContentElements/Partials/'
-    templateRootPath: 'EXT:cbstarter_site/Resources/Private/ContentElements/Templates/'
+    layoutRootPath: 'EXT:devquest_site/Resources/Private/ContentElements/Layouts/'
+    partialRootPath: 'EXT:devquest_site/Resources/Private/ContentElements/Partials/'
+    templateRootPath: 'EXT:devquest_site/Resources/Private/ContentElements/Templates/'
 
 page:
   pageview:
-    paths: 'EXT:cbstarter_site/Resources/Private/PageView/'
+    paths: 'EXT:devquest_site/Resources/Private/PageView/'
 
   meta:
     viewport: 'width=device-width, initial-scale=1'
