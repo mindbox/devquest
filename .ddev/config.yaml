@@ -1,4 +1,4 @@
-name: cbstarter
+name: devquest
 type: typo3
 docroot: public
 php_version: "8.2"

@@ -110,7 +110,7 @@ return [
             'frontend.cache.autoTagging' => true,
             'security.system.enforceAllowedFileExtensions' => true,
         ],
-        'sitename' => 'Cbstarter',
+        'sitename' => 'Devquest',
         'systemMaintainers' => [
             1,
         ],
