@@ -1,0 +1,29 @@
+street;postal_code;city;cold_rent;warm_rent;area;rooms
+Musterstraße 1;10115;Berlin;750;920;62;2
+Hauptstr. 99;50667;Köln;890;1050;58;2
+Lange Gasse 5;20095;Hamburg;650;820;45;1
+Bergweg 12;80331;München;1200;1500;70;3
+Am Park 7;60311;Frankfurt;950;1150;55;2
+Seestraße 3;79098;Freiburg;780;950;50;2
+Schillerstraße 22;01067;Dresden;560;690;40;1
+Goethestraße 8;04109;Leipzig;620;770;47;1
+Markt 1;39104;Magdeburg;500;630;38;1
+Uferweg 4;28195;Bremen;710;880;52;2
+Musterstraße 1;10115;Berlin;750;920;62;2
+Musterstraße 1;10115;Berlin;750;930;63;2
+Tulpenweg 10;24103;Kiel;700;680;49;2
+Feldstraße 2;97070;Würzburg;610;740;0;2
+Rosenweg 6;66111;Saarbrücken;540;680;36;-1
+Wiesenweg 13;48143;Münster;645,50;790,20;48,5;2
+  Allee 20  ; 10117 ; Berlin ;800;980;60;2
+Panoramaweg 1;82467;Garmisch-Partenkirchen;3500;4200;180;5
+Dorfstraße 3;D-17489;Greifswald;520;650;37;1
+Kirchplatz 2;14467;Potsdam;sechshundert;720;44;2
+Buchenweg 9;93047;;620;780;46;2
+Ährenstraße 11;30159;Hannover;700;860;55;2
+Bahnhofstrasse 5/1;86150;Augsburg;670;820;51;2
+Kastanienallee 77;12345678901;Berlin;980;1200;68;3
+Fischerweg 14;23552;  LüBeCk  ;640;790;47;2
+Eichenring 30;56068;Koblenz;;820;53;2
+Birkenweg 21;90402;Nürnberg;710.75;890,50;52.0;2
+Pappelweg 2;04229;Leipzig;450;560;12;1
