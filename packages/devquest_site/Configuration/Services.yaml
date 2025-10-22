@@ -1,0 +1,22 @@
+services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+    public: false
+
+  Mbx\DevquestSite\:
+    resource: '../Classes/*'
+    exclude: '../Classes/Domain/Model/*'
+    autowire: true
+    autoconfigure: true
+
+  Mbx\DevquestSite\Controller\ImmoController:
+    public: true
+    autowire: true
+    autoconfigure: true
+
+  Mbx\DevquestSite\Command\ImmoImportCommand:
+    tags:
+      - name: 'console.command'
+        command: 'devquest_site:immoImport'
+        schedulable: true

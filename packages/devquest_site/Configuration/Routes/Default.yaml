@@ -1,0 +1,5 @@
+routeEnhancers:
+  ApiImmo:
+    type: PageType
+    map:
+      /api/immo: 171234
