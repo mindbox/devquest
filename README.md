@@ -5,7 +5,7 @@ Dieses Projekt stellt eine minimal konfigurierte TYPO3-Installation mit Content 
 # Schnellstart
 
 Verzeichnis wählen
-- git clone git@github.com:mindbox/devquest.git devquest
+- git clone https://github.com/mindbox/devquest.git devquest
 - cd devquest
 - ddev start
 - ddev composer install
