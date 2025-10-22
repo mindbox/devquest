@@ -18,6 +18,11 @@ Passwort: 8nJAW>NQsf@V3CiUiC_!
 
 JSON-API: https://devquest.ddev.site/?type=171234  
 
+# Command ausführen
+- in ddev Container einloggen: ddev ssh
+- mit php den Command aufrufen: php vendor/bin/typo3 devquest_site:immoImport auf rufen  
+=> im Terminal sollte dann "ImmoImportCommand execute" erscheinen
+
 # Relevante Code-Dateien
 Immo Model => packages/devquest_site/Classes/Domain/Model/Immo.php  
 Immo Repository => packages/devquest_site/Classes/Domain/Repository/ImmoRepository.php  
